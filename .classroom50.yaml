@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "git-basics"
+owner:
+  username: "vebeta"
+  id: 154799552
+  accepted_at: "2026-10-02T12:54:50Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-git-basics"
+  branch: "main"
